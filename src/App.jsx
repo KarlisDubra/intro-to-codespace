@@ -28,11 +28,11 @@ const siteProps = {
   title: "Student with big dreams",
   bio: "I am a student who is studying programming and web development. I am a motivated person who is always looking for new challenges. My current challange - combining CS studies with my passion for teaching. I am always looking for new opportunities to learn and grow.",
   email: "dubra.karlis@gmail.com",
-  gitHub: "https://github.com/KarlisDubra",
-  instagram: "https://www.instagram.com/karlis.dubra/",
-  linkedIn: "https://www.linkedin.com/in/kārlis-dubra/",
+  gitHub: "KarlisDubra",
+  instagram: "karlis.dubra",
+  linkedIn: "kārlis-dubra",
   medium: "",
-  twitter: "https://twitter.com/KarlisDubra",
+  twitter: "KarlisDubra",
   youTube: "",
 };
 
