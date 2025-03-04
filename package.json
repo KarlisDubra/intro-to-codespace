@@ -1,13 +1,13 @@
 {
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Kārlis Dubra",
   "source": "src/index.html",
-  "homepage": "http://KarlisDubra.github.io/intro-to-codespace",
+  "homepage": "https://KarlisDubra.github.io/intro-to-codespace",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://KarlisDubra.github.io/intro-to-codespace'",
+    "build-gh": "parcel build --public-url 'https://KarlisDubra.github.io/intro-to-codespace'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
