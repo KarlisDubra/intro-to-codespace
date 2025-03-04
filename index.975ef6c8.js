@@ -27114,11 +27114,11 @@ var _stylesCss = require("./styles.css");
     title: "Student with big dreams",
     bio: "I am a student who is studying programming and web development. I am a motivated person who is always looking for new challenges. My current challange - combining CS studies with my passion for teaching. I am always looking for new opportunities to learn and grow.",
     email: "dubra.karlis@gmail.com",
-    gitHub: "https://github.com/KarlisDubra",
-    instagram: "https://www.instagram.com/karlis.dubra/",
-    linkedIn: "https://www.linkedin.com/in/kārlis-dubra/",
+    gitHub: "KarlisDubra",
+    instagram: "karlis.dubra",
+    linkedIn: "kārlis-dubra",
     medium: "",
-    twitter: "https://twitter.com/KarlisDubra",
+    twitter: "KarlisDubra",
     youTube: ""
 };
 const primaryColor = "#4E567E";
@@ -27222,7 +27222,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "I like to sail. Think of crazy ideas. And make them happen.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
