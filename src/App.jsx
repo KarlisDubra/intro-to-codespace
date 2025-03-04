@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Kārlis Dubra",
-  title: "Student with big dreams",
+  title: "LU student with big dreams",
   bio: "I am a student who is studying programming and web development. I am a motivated person who is always looking for new challenges. My current challange - combining CS studies with my passion for teaching. I am always looking for new opportunities to learn and grow.",
   email: "dubra.karlis@gmail.com",
   gitHub: "KarlisDubra",
